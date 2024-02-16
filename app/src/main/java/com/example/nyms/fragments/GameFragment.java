@@ -994,7 +994,7 @@ public class GameFragment extends Fragment {
             }
             PassGuessToRecyclerViews();
         } else {
-            Toast.makeText(getContext(), "Guess already submitted", Toast.LENGTH_LONG);
+            Toast.makeText(getContext(), "Already Guessed", Toast.LENGTH_LONG);
         }
     }
 
