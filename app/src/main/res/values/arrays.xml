@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="progress_gradient">
+        <item>#a2a6a6</item>
+        <item>#7A9E9F</item>
+    </array>
+</resources>
